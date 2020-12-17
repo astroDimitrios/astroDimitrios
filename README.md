@@ -11,11 +11,11 @@ I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tides on other worlds | Winter 2020/21 Challenge Short](https://www.youtube.com/watch?v=hm5cI8TQv7I)
 - [Time Dilation Challenge | Autumn 2020](https://www.youtube.com/watch?v=wGmS2CCaKxg)
 - [Challenge: Star Trek Time Dilation](https://www.youtube.com/watch?v=zwUEvdA4B6w)
 - [Challenge: Tracking Sunspots](https://www.youtube.com/watch?v=mkmbQpJU94w)
 - [Unit 16: Class Materials](https://www.youtube.com/watch?v=tINxbXZGG0U)
-- [Unit 16: Intro](https://www.youtube.com/watch?v=BNys2kCSm5o)
 <!-- YOUTUBE:END -->
 
 ---
