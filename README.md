@@ -24,6 +24,11 @@ I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com/astroDimitrios/Astronomy/issues/3) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+2. ❗️ Closed issue [#6](https://github.com/astroDimitrios/Astronomy/issues/6) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+3. 🗣 Commented on [#6](https://github.com/astroDimitrios/Astronomy/issues/6) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+4. ❗️ Closed issue [#8](https://github.com/astroDimitrios/Astronomy/issues/8) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+5. 🗣 Commented on [#8](https://github.com/astroDimitrios/Astronomy/issues/8) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 <!--END_SECTION:activity-->
 
 </details>
