@@ -1,4 +1,12 @@
-### Hi there I'm Dimitrios 👋
+### Hi there I'm Dimitrios :stars:
+
+I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources and making Python activities using Jupyter Notebooks.
+
+- 🔭 I’m currently working on resources for my Astronomy class
+- 👯 I’m looking to collaborate on new Python activities/astro resources
+- 💬 Ask me about using Python in your classes
+- 📫 How to reach me: astrodimitrios(at)gmail.com
+- 😄 Pronouns: he/him
 
 ### 📺 Latest YouTube Videos
 
@@ -9,6 +17,8 @@
 - [Unit 16: Intro](https://www.youtube.com/watch?v=BNys2kCSm5o)
 - [Dr Sunayana Bhargava Interview: Galaxy Clusters](https://www.youtube.com/watch?v=PfNrseFBSnw)
 <!-- YOUTUBE:END -->
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
