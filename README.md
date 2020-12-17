@@ -10,6 +10,21 @@
 - [Dr Sunayana Bhargava Interview: Galaxy Clusters](https://www.youtube.com/watch?v=PfNrseFBSnw)
 <!-- YOUTUBE:END -->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="astroDimitrios' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astroDimitrios&show_icons=true&hide_border=true" />
+
+</details>
+
 <!--
 **astroDimitrios/astroDimitrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
