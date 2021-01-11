@@ -24,11 +24,11 @@ I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/jimmynewland/colabnotebooks/pull/2) in [jimmynewland/colabnotebooks](https://github.com/jimmynewland/colabnotebooks)
-2. ❗️ Opened issue [#1](https://github.com/jimmynewland/colabnotebooks/issues/1) in [jimmynewland/colabnotebooks](https://github.com/jimmynewland/colabnotebooks)
-3. ❗️ Closed issue [#3](https://github.com/astroDimitrios/Astronomy/issues/3) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-4. ❗️ Closed issue [#6](https://github.com/astroDimitrios/Astronomy/issues/6) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-5. 🗣 Commented on [#6](https://github.com/astroDimitrios/Astronomy/issues/6) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+1. ❗️ Opened issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+2. ❗️ Closed issue [#7](https://github.com/astroDimitrios/Astronomy/issues/7) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+3. ❗️ Closed issue [#5](https://github.com/astroDimitrios/Astronomy/issues/5) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+4. ❗️ Closed issue [#4](https://github.com/astroDimitrios/Astronomy/issues/4) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+5. 💪 Opened PR [#2](https://github.com/jimmynewland/colabnotebooks/pull/2) in [jimmynewland/colabnotebooks](https://github.com/jimmynewland/colabnotebooks)
 <!--END_SECTION:activity-->
 
 </details>
