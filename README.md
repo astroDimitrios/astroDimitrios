@@ -24,11 +24,11 @@ I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#653](https://github.com/jupyterhub/the-littlest-jupyterhub/issues/653) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
-2. ❗️ Closed issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-3. 🗣 Commented on [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-4. ❗️ Opened issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-5. ❗️ Closed issue [#7](https://github.com/astroDimitrios/Astronomy/issues/7) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+1. ❗️ Opened issue [#166](https://github.com/jupyterhub/nbgitpuller/issues/166) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+2. ❗️ Opened issue [#653](https://github.com/jupyterhub/the-littlest-jupyterhub/issues/653) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+3. ❗️ Closed issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+4. 🗣 Commented on [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+5. ❗️ Opened issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 <!--END_SECTION:activity-->
 
 </details>
