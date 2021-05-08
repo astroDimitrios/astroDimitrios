@@ -24,9 +24,9 @@ I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources 
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/astroDimitrios/Astronomy/issues/10) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-2. 🗣 Commented on [#166](https://github.com/jupyterhub/nbgitpuller/issues/166) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. ❗️ Opened issue [#166](https://github.com/jupyterhub/nbgitpuller/issues/166) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+1. ❗️ Opened issue [#2](https://github.com/astroDimitrios/astroedu/issues/2) in [astroDimitrios/astroedu](https://github.com/astroDimitrios/astroedu)
+2. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroedu/issues/1) in [astroDimitrios/astroedu](https://github.com/astroDimitrios/astroedu)
+3. ❗️ Opened issue [#10](https://github.com/astroDimitrios/Astronomy/issues/10) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 4. ❗️ Opened issue [#653](https://github.com/jupyterhub/the-littlest-jupyterhub/issues/653) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 5. ❗️ Closed issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 <!--END_SECTION:activity-->
