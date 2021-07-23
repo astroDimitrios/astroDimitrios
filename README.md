@@ -1,9 +1,9 @@
 ### Hi there I'm Dimitrios :stars:
 
-I'm a teacher in the UK currently working on updating my BTEC Unit 16 resources and making Python activities using Jupyter Notebooks.
+I'm a teacher in the UK currently working on astronomy resources, Python activities using Jupyter notebooks, and the astroedu package.
 
-- 🔭 I’m currently working on resources for my Astronomy class
-- 👯 I’m looking to collaborate on new Python activities/astro resources
+- 🔭 I’m currently working on new astronomy resources
+- 👯 I’m looking to collaborate on new notebooks and the astroedu package
 - 💬 Ask me about using Python in your classes
 - 📫 How to reach me: astrodimitrios(at)gmail.com
 - 😄 Pronouns: he/him
