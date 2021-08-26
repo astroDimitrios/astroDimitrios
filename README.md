@@ -1,5 +1,7 @@
 ### Hi there I'm Dimitrios :stars:
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9288-1332" href="https://orcid.org/0000-0001-9288-1332" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
+
 I'm a teacher in the UK currently working on astronomy resources, Python activities using Jupyter notebooks, and the astroedu package.
 
 - 🔭 I’m currently working on new astronomy resources
