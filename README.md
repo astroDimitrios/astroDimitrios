@@ -26,9 +26,9 @@ I'm a teacher in the UK currently working on astronomy resources, Python activit
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/astroDimitrios/Astronomy/issues/11) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-2. ❗️ Opened issue [#2](https://github.com/astroDimitrios/astroedu/issues/2) in [astroDimitrios/astroedu](https://github.com/astroDimitrios/astroedu)
-3. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroedu/issues/1) in [astroDimitrios/astroedu](https://github.com/astroDimitrios/astroedu)
+1. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
+2. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
+3. ❗️ Opened issue [#11](https://github.com/astroDimitrios/Astronomy/issues/11) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 4. ❗️ Opened issue [#653](https://github.com/jupyterhub/the-littlest-jupyterhub/issues/653) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 5. ❗️ Closed issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
 <!--END_SECTION:activity-->
