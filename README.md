@@ -26,11 +26,11 @@ I'm a teacher in the UK currently working on astronomy resources, Python activit
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
+1. ❗️ Closed issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
 2. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-3. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-4. ❗️ Opened issue [#11](https://github.com/astroDimitrios/Astronomy/issues/11) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
-5. ❗️ Closed issue [#9](https://github.com/astroDimitrios/Astronomy/issues/9) in [astroDimitrios/Astronomy](https://github.com/astroDimitrios/Astronomy)
+3. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
+4. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
+5. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
 <!--END_SECTION:activity-->
 
 </details>
