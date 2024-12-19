@@ -2,25 +2,13 @@
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9288-1332" href="https://orcid.org/0000-0001-9288-1332" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
 
-I'm a software engineer in the UK currently working on astronomy resources, Python activities using Jupyter notebooks, and the astroedu package.
+I'm a software engineer in the UK currently working on mainly weather and climate codes.
 
-- 🔭 I’m currently working on new astronomy resources
+- 🔭 I’m currently working on astronomy and geophysics resources (slowly!)
 - 👯 I’m looking to collaborate on new notebooks and the astroedu package
-- 💬 Ask me about using Python in your classes
+- 💬 Ask me about using Python or Fortran! in your classes
 - 📫 How to reach me: astrodimitrios(at)gmail.com
 - 😄 Pronouns: he/him
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Fading planet trails with Matplotlib | Snippet](https://www.youtube.com/watch?v=IjRO2nubsho)
-- [Tides on Other Worlds | Challenge Solution Winter 2020](https://www.youtube.com/watch?v=V_vKZlftaUo)
-- [Launch Windows to Mars | Spring 2021 Challenge Short](https://www.youtube.com/watch?v=_3QxdKO1B2o)
-- [Visualising Saturn&#39;s Rings | AstPy-14 Walkthrough](https://www.youtube.com/watch?v=17HukTDR7vM)
-- [Tides on other worlds | Winter 2020/21 Challenge Short](https://www.youtube.com/watch?v=hm5cI8TQv7I)
-<!-- YOUTUBE:END -->
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
