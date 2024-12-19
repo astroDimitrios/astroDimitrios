@@ -11,19 +11,6 @@ I'm a software engineer in the UK currently working on mainly weather and climat
 - 😄 Pronouns: he/him
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-2. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-3. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-4. 🗣 Commented on [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-5. ❗️ Opened issue [#1](https://github.com/astroDimitrios/astroDimitrios.github.io/issues/1) in [astroDimitrios/astroDimitrios.github.io](https://github.com/astroDimitrios/astroDimitrios.github.io)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="astroDimitrios' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astroDimitrios&show_icons=true&hide_border=true" />
